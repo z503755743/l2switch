@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AntConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="CodeStyleManager">
+    <option name="USE_DEFAULT_CODE_STYLE_SCHEME" value="true" />
+    <option name="CODE_STYLE_SCHEME" value="" />
+  </component>
+  <component name="CompilerConfiguration">
+    <wildcardResourcePatterns>
+      <entry name="!?*.java" />
+    </wildcardResourcePatterns>
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="PRINT_LINE_NUMBERS" value="false" />
+    <option name="OPEN_IN_BROWSER" value="false" />
+    <option name="OUTPUT_DIRECTORY" />
+  </component>
+  <component name="ImportConfiguration">
+    <option name="VENDOR" />
+    <option name="RELEASE_TAG" />
+    <option name="LOG_MESSAGE" />
+    <option name="CHECKOUT_AFTER_IMPORT" value="true" />
+  </component>
+  <component name="InspectionProjectProfileManager">
+    <profile version="1.0">
+      <option name="myName" value="Project Default" />
+    </profile>
+    <version value="1.0" />
+  </component>
+  <component name="JUnitProjectSettings">
+    <option name="TEST_RUNNER" value="UI" />
+  </component>
+  <component name="JavacSettings">
+    <option name="DEBUGGING_INFO" value="true" />
+    <option name="GENERATE_NO_WARNINGS" value="false" />
+    <option name="DEPRECATION" value="true" />
+    <option name="ADDITIONAL_OPTIONS_STRING" value="" />
+    <option name="MAXIMUM_HEAP_SIZE" value="128" />
+    <option name="USE_GENERICS_COMPILER" value="false" />
+  </component>
+  <component name="JavadocGenerationManager">
+    <option name="OUTPUT_DIRECTORY" />
+    <option name="OPTION_SCOPE" value="protected" />
+    <option name="OPTION_HIERARCHY" value="false" />
+    <option name="OPTION_NAVIGATOR" value="false" />
+    <option name="OPTION_INDEX" value="false" />
+    <option name="OPTION_SEPARATE_INDEX" value="false" />
+    <option name="OPTION_USE_1_1" value="false" />
+    <option name="OPTION_DOCUMENT_TAG_USE" value="false" />
+    <option name="OPTION_DOCUMENT_TAG_AUTHOR" value="false" />
+    <option name="OPTION_DOCUMENT_TAG_VERSION" value="false" />
+    <option name="OPTION_DOCUMENT_TAG_DEPRECATED" value="false" />
+    <option name="OPTION_DEPRECATED_LIST" value="false" />
+    <option name="OTHER_OPTIONS" />
+    <option name="HEAP_SIZE" />
+    <option name="OPEN_IN_BROWSER" value="false" />
+  </component>
+  <component name="JikesSettings">
+    <option name="DEBUGGING_INFO" value="true" />
+    <option name="DEPRECATION" value="true" />
+    <option name="GENERATE_NO_WARNINGS" value="false" />
+    <option name="GENERATE_MAKE_FILE_DEPENDENCIES" value="false" />
+    <option name="DO_FULL_DEPENDENCE_CHECK" value="false" />
+    <option name="IS_INCREMENTAL_MODE" value="false" />
+    <option name="IS_EMACS_ERRORS_MODE" value="true" />
+    <option name="ADDITIONAL_OPTIONS_STRING" value="" />
+    <option name="MAXIMUM_HEAP_SIZE" value="128" />
+  </component>
+  <component name="ProjectModuleManager">
+    <modules>
+      <module filepath="$PROJECT_DIR$/l2switch.iml" />
+      <module filepath="$PROJECT_DIR$/parent/l2switch-parent.iml" />
+      <module filepath="$PROJECT_DIR$/packethandler/model/packethandler-model.iml" />
+      <module filepath="$PROJECT_DIR$/packethandler/implementation/packethandler-impl.iml" />
+      <module filepath="$PROJECT_DIR$/packethandler/packethandler.aggregator.iml" />
+      <module filepath="$PROJECT_DIR$/loopremover/model/loopremover-model.iml" />
+      <module filepath="$PROJECT_DIR$/loopremover/implementation/loopremover-impl.iml" />
+      <module filepath="$PROJECT_DIR$/loopremover/loopremover.aggregator.iml" />
+      <module filepath="$PROJECT_DIR$/arphandler/arphandler-impl.iml" />
+      <module filepath="$PROJECT_DIR$/addresstracker/model/addresstracker-model.iml" />
+      <module filepath="$PROJECT_DIR$/addresstracker/implementation/addresstracker-impl.iml" />
+      <module filepath="$PROJECT_DIR$/addresstracker/addresstracker.aggregator.iml" />
+      <module filepath="$PROJECT_DIR$/hosttracker/model/hosttracker-model.iml" />
+      <module filepath="$PROJECT_DIR$/hosttracker/implementation/hosttracker-impl.iml" />
+      <module filepath="$PROJECT_DIR$/hosttracker/hosttracker.aggregator.iml" />
+      <module filepath="$PROJECT_DIR$/l2switch-main/main-impl.iml" />
+      <module filepath="$PROJECT_DIR$/distribution/karaf/distribution-karaf.iml" />
+      <module filepath="$PROJECT_DIR$/features/features-l2switch/features-l2switch.iml" />
+      <module filepath="$PROJECT_DIR$/features/odl-l2switch-all/odl-l2switch-all.iml" />
+      <module filepath="$PROJECT_DIR$/features/odl-l2switch-switch/odl-l2switch-switch.iml" />
+      <module filepath="$PROJECT_DIR$/features/odl-l2switch-switch-rest/odl-l2switch-switch-rest.iml" />
+      <module filepath="$PROJECT_DIR$/features/odl-l2switch-switch-ui/odl-l2switch-switch-ui.iml" />
+      <module filepath="$PROJECT_DIR$/features/odl-l2switch-hosttracker/odl-l2switch-hosttracker.iml" />
+      <module filepath="$PROJECT_DIR$/features/odl-l2switch-addresstracker/odl-l2switch-addresstracker.iml" />
+      <module filepath="$PROJECT_DIR$/features/odl-l2switch-arphandler/odl-l2switch-arphandler.iml" />
+      <module filepath="$PROJECT_DIR$/features/odl-l2switch-loopremover/odl-l2switch-loopremover.iml" />
+      <module filepath="$PROJECT_DIR$/features/odl-l2switch-packethandler/odl-l2switch-packethandler.iml" />
+      <module filepath="$PROJECT_DIR$/features/features-l2switch-aggregator.iml" />
+      <module filepath="$PROJECT_DIR$/artifacts/l2switch-artifacts.iml" />
+    </modules>
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="1.8" />
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+  </component>
+</project>
